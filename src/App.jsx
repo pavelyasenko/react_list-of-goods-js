@@ -1,4 +1,3 @@
-/* eslint-disable function-paren-newline */
 import { useState } from 'react';
 import classNames from 'classnames';
 import 'bulma/css/bulma.css';
